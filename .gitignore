@@ -15,7 +15,8 @@ htmlcov/
 
 # Skill development / planning artifacts (not part of the published skill repo)
 openspec/
-.claude/
+.claude/*
+!.claude/settings.json
 CLAUDE.md
 
 # Demo GIF build scaffolding (the rendered docs/demo.gif is committed; its sources are not)
